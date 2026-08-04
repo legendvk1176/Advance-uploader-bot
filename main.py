@@ -85,7 +85,7 @@ async def restart_handler(_, m):
 
 
 
-@bot.on_message(filters.command(["txt"]))
+@bot.on_message(filters.command(["VK"]))
 async def account_login(bot: Client, m: Message):
     editable = await m.reply_text(
                         "📂✨ **Please Send Your TXT File for Download** ✨📂\n"
@@ -165,7 +165,7 @@ async def account_login(bot: Client, m: Message):
     raw_text3 = input3.text
 
     if raw_text3 == 'df':
-        MR = " S A K S H A M "
+        MR = " ＶＩＳＨＡＬ "
     else:
         MR = raw_text3
     await input3.delete(True)
@@ -423,9 +423,9 @@ async def account_login(bot: Client, m: Message):
                             f"┌──📄 File Details\n"
                             f"│   ├── 📝 Name: {name}\n"
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
-                            f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
+                            f"│   ├── 🔗 URL: 𝚅𝚒𝚜𝚑𝚊𝚕 नाम तो सुना होगा 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by:SAKSHAM \n\n"
+                            f"└── 🤖 Powered by:@VK_0786BOT\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                    prog = await m.reply_text(Show)
@@ -447,9 +447,9 @@ async def account_login(bot: Client, m: Message):
                             f"┌──📄 File Details\n"
                             f"│   ├── 📝 Name: {name}\n"
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
-                            f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
+                            f"│   ├── 🔗 URL: 𝚅𝚒𝚜𝚑𝚊𝚕 नाम तो सुना होगा 😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by:@VK_0786BOT\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
@@ -474,9 +474,9 @@ async def account_login(bot: Client, m: Message):
                             f"┌──📄 File Details\n"
                             f"│   ├── 📝 Name: {name}\n"
                             f"│   ├── 🎞️ Quality: {raw_text2}\n"
-                            f"│   ├── 🔗 URL: Chill maar bhai 😎\n"
+                            f"│   ├── 🔗 URL:𝚅𝚒𝚜𝚑𝚊𝚕 नाम तो सुना होगा😎\n"
                             f"│   └── 🖼️ Thumbnail: {input6.text}\n"
-                            f"└── 🤖 Powered by: SAKSHAM\n\n"
+                            f"└── 🤖 Powered by:@VK_0786BOT\n\n"
                             f"✅ File is downloading... Please wait ⏳"
                         )
                     prog = await m.reply_text(Show)
@@ -496,7 +496,7 @@ async def account_login(bot: Client, m: Message):
 
     except Exception as e:
         await m.reply_text(e)
-    await m.reply_text("**🔥 Sᴜᴄᴄᴇsғᴜʟʟʏ Dᴏᴡɴʟᴏᴀᴅᴇᴅ Aʟʟ Lᴇᴄᴛᴜʀᴇs  SIR 🔥**")
+    await m.reply_text("**🔥 Sᴜᴄᴄᴇsғᴜʟʟʏ Dᴏᴡɴʟᴏᴀᴅᴇᴅ 🔥**")
 
 
 bot.run()
