@@ -95,20 +95,20 @@ async def progress_bar(current, total, reply, start):
             bar_length = 10
             completed_length = int(current * bar_length / total)
             remaining_length = bar_length - completed_length
-            progress_bar = "▰" * completed_length + "▱" * remaining_length
+            progress_bar = "▣" * completed_length + "▢" * remaining_length
             
             try:
                 uploadeing_text = (
                     f"📦 Upload Status \n\n"
                     f"📁 Upload Root\n"
-                    f"├── 🐼 WELCOME: ᑌᑭᒪOᗩᗪᗴᖇ ACTIVE\n"
+                    f"├── 🐼 WELCOME:🚀𝗨𝗣𝗟𝗢𝗔𝗗𝗜𝗡𝗚🚀\n"
                     f"│   ├── 📊 Progress Bar: {progress_bar}\n"
                     f"│   ├── ⚡ Speed: {sp}\n"
                     f"│   ├── 🧭 Progress: {perc}\n"
                     f"│   ├── 🗂️ Loaded: {cur}\n"
                     f"│   ├── 🤏 Size: {tot}\n"
                     f"│   └── ⏳ ETA: {eta}\n"
-                    f"└── 🚀 Bot By: SAKSHAM"
+                    f"└── 🚀 Bot By:@VK_0786BOT"
                 )
 
                 await reply.edit(uploadeing_text)
