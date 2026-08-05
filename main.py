@@ -289,7 +289,7 @@ async def account_login(bot: Client, m: Message):
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
                     f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
-                    f"↻      ◁     ㅤ❚❚       ▷      ↺
+                    f"↻      ◁     ㅤ❚❚       ▷      ↺"
                 )
                 
                 cc1 = (
@@ -299,7 +299,7 @@ async def account_login(bot: Client, m: Message):
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
                     f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
-                    f"↻      ◁      ❚❚       ▷      ↺
+                    f"↻      ◁      ❚❚       ▷      ↺"
                 )
                 
                 cc2 = (
@@ -309,7 +309,7 @@ async def account_login(bot: Client, m: Message):
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
                     f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
-                    f"↻      ◁      ❚❚       ▷      ↺
+                    f"↻      ◁      ❚❚       ▷      ↺"
                 )
                 
                 ccyt = (
@@ -319,7 +319,7 @@ async def account_login(bot: Client, m: Message):
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
                     f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
-                    f"↻      ◁      ❚❚       ▷      ↺
+                    f"↻      ◁      ❚❚       ▷      ↺"
                 )
 
 
