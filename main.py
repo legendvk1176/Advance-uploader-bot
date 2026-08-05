@@ -283,40 +283,43 @@ async def account_login(bot: Client, m: Message):
                 
 
                 cc = (
-                    f"🎬 VIDEO ID: {str(count).zfill(3)}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
-                    f"🖼️ Title: {name1}\n\n"
-                    f"📁 Batch: {b_name}\n\n"
-                    f"👤 Extracted By: {MR}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
+                    f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
+                    f"━━━━━━━━━•⊰᯽⊱•━━━━━━━━━━━━━\n"
+                    f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
+                    f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
+                    f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
+                    f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
+                    f"↻       ◁      ㅤ❚❚        ▷      ↺
                 )
                 
                 cc1 = (
-                    f"🎬 VIDEO ID: {str(count).zfill(3)}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
-                    f"🖼️ Title: {name1}\n\n"
-                    f"📁 Batch: {b_name}\n\n"
-                    f"👤 Extracted By: {MR}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
+                    f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
+                    f"━━━━━━━━━•⊰᯽⊱•━━━━━━━━━━━━━\n"
+                    f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
+                    f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
+                    f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
+                    f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
+                    f"↻       ◁      ㅤ❚❚        ▷      ↺
                 )
                 
                 cc2 = (
-                    f"🎬 VIDEO ID: {str(count).zfill(3)}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
-                    f"🖼️ Title: {name1}\n\n"
-                    f"📁 Batch: {b_name}\n\n"
-                    f"👤 Extracted By: {MR}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
+                    f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
+                    f"━━━━━━━━━•⊰᯽⊱•━━━━━━━━━━━━━\n"
+                    f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
+                    f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
+                    f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
+                    f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
+                    f"↻       ◁      ㅤ❚❚        ▷      ↺
                 )
                 
                 ccyt = (
-                    f"🎬 VIDEO ID: {str(count).zfill(3)}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
-                    f"🖼️ Title: {name1}\n\n"
-                    f"📁 Batch: {b_name}\n\n"
-                    f"🔗 Video Link: {url}\n\n"
-                    f"👤 Extracted By: {MR}\n"
-                    f"━━━━━━━━━━━━━━━━━━━━━━\n"
+                    f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
+                    f"━━━━━━━━━•⊰᯽⊱•━━━━━━━━━━━━━\n"
+                    f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
+                    f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
+                    f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
+                    f"ɴᴇᴇᴛ━━━━━━━━━●───────ᴀɪɪᴍꜱ\n"
+                    f"↻       ◁      ㅤ❚❚        ▷      ↺
                 )
 
 
