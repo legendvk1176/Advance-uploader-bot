@@ -284,7 +284,7 @@ async def account_login(bot: Client, m: Message):
 
                 cc = (
                     f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
-                    f"━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
+                    f"━━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
                     f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
@@ -294,7 +294,7 @@ async def account_login(bot: Client, m: Message):
                 
                 cc1 = (
                     f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
-                    f"━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
+                    f"━━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
                     f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
@@ -304,7 +304,7 @@ async def account_login(bot: Client, m: Message):
                 
                 cc2 = (
                     f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
-                    f"━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
+                    f"━━━━━━━━•⊰᯽⊱•━━━━━━━━━━\n"
                     f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
@@ -314,7 +314,7 @@ async def account_login(bot: Client, m: Message):
                 
                 ccyt = (
                     f"🏷️ 𝗜ɴᴅᴇ𝘅 𝗜𝗗: {str(count).zfill(3)}\n"
-                    f"━━━━━━━•⊰᯽⊱•━━━━━━━━━━━\n"
+                    f"━━━━━━━━•⊰᯽⊱•━━━━━━━━━━━\n"
                     f"🎬 𝗧𝗶𝘁𝗹𝗲 𝗡𝗮𝗺𝗲 » {name1}\n\n"
                     f"🎓 𝗕𝗮𝘁𝗰𝗵 𝗡𝗮𝗺𝗲 » {b_name}\n\n"
                     f"📥 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 » {MR}\n"
